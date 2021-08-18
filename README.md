@@ -1,7 +1,7 @@
-# Kia ora, I'm Iqbal ⚡️
-Here's a sneak peek at what I'm working on using Swift!
+### Kia ora, I'm Iqbal ⚡️
+Here's a sneak peek at what I've been working on in Swift!
 
-## Metlink 2.0 (WIP)
+#### Metlink 2.0 (WIP)
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/54200374/127518465-ba40f820-3c9e-4346-bcf7-a6d715b8acb7.PNG" alt="Home screen" height="500">
 <img src="https://user-images.githubusercontent.com/54200374/127518975-bfb92ff4-676a-4c3e-9bb6-f7a3f1a2f3f0.PNG" alt="Search bar" height="500">
