@@ -1,5 +1,5 @@
 # Kia ora, I'm Iqbal ⚡️
-Here's a sneak peek at what I'm working on!
+Here's a sneak peek at what I'm working on using Swift!
 
 ## Metlink 2.0 (WIP)
 <p float="middle">
