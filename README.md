@@ -1,4 +1,5 @@
-# Have a look at what I'm working on!
+# Kia ora, I'm Iqbal ⚡️
+Here's a quick look at what I'm working on!
 
 ## Metlink 2.0 (WIP)
 <p float="middle">
