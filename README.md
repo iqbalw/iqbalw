@@ -1,5 +1,5 @@
 ### Kia ora, I'm Iqbal ⚡️ An aspriring iOS developer 📱
-Here's a sneak peek at what I've been working on in Swift!
+Here's a sneak peek at what I've been working on in Swift! The git repository is private, but feel free to contact me if you would like to have a look. :)
 
 #### Metlink 2.0 (WIP)
 <p float="middle">
