@@ -1,4 +1,4 @@
-### Kia ora, I'm Iqbal ⚡️
+### Kia ora, I'm Iqbal ⚡️ An aspriring iOS developer 📱
 Here's a sneak peek at what I've been working on in Swift!
 
 #### Metlink 2.0 (WIP)
